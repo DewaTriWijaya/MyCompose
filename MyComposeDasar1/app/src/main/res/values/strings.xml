@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">MyCompose</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="title">Jetpack Compose tutorial</string>
+
+
+    <string name="sub1">Jetpack Compose is a modern toolkit for building native Android UI. Compose simplifies and accelerates UI development on Android with less code, powerful tools, and intuitive Kotlin APIs.</string>
+    <string name="sub2">In this tutorial, you build a simple UI component with declarative functions. You call Compose functions to say what elements you want and the Compose compiler does the rest. Compose is built around Composable functions. These functions let you define your app\'s UI programmatically because they let you describe how it should look and provide data dependencies, rather than focus on the process of the UI\'s construction, such as initializing an element and then attaching it to a parent. To create a Composable function, you add the @Composable annotation to the function name.</string>
+
+    <string name="roll">Roll</string>
+
+
+    <string name="tap_lemon">Tap the lemon tree to select a lemon</string> 
+    <string name="tap_squeeze">Keep tapping the lemon to squeeze it</string>
+    <string name="tap_drink">Tap the lemonade to drink it</string>
+    <string name="again">Tap the empty glass to start again</string>
+
+    <string name="lemon_tree">Lemon tree</string>
+    <string name="lemon">Lemon</string>
+    <string name="glass_of_lemonade">Glass of lemonade</string>
+    <string name="empty_glass">Empty glass</string>
+
+
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="tip_amount">Tip amount: %s</string>
+
+    <string name="how_was_the_service">Tip (%)</string>
+    <string name="round_up_tip">Round up tip</string>
+
+
+
+    <string name="affirmation1">I am strong.</string>
+    <string name="affirmation2">I believe in myself.</string>
+    <string name="affirmation3">Each day is a new opportunity to grow and be a better version of myself.</string>
+    <string name="affirmation4">Every challenge in my life is an opportunity to learn from.</string>
+    <string name="affirmation5">I have so much to be grateful for.</string>
+    <string name="affirmation6">Good things are always coming into my life.</string>
+    <string name="affirmation7">New opportunities await me at every turn.</string>
+    <string name="affirmation8">I have the courage to follow my heart.</string>
+    <string name="affirmation9">Things will unfold at precisely the right time.</string>
+    <string name="affirmation10">I will be present in all the moments that this day brings.</string>
+
+
+
+    <string name="architecture">Architecture</string>
+    <string name="crafts">Crafts</string>
+    <string name="business">Business</string>
+    <string name="culinary">Culinary</string>
+    <string name="design">Design</string>
+    <string name="fashion">Fashion</string>
+    <string name="film">Film</string>
+    <string name="gaming">Gaming</string>
+    <string name="drawing">Drawing</string>
+    <string name="lifestyle">Lifestyle</string>
+    <string name="music">Music</string>
+    <string name="painting">Painting</string>
+    <string name="photography">Photography</string>
+    <string name="tech">Tech</string>
+
+
+
+    <string name="dog_name_1">Koda</string>
+    <string name="dog_name_2">Lola</string>
+    <string name="dog_name_3">Frankie</string>
+    <string name="dog_name_4">Nox</string>
+    <string name="dog_name_5">Faye</string>
+    <string name="dog_name_6">Bella</string>
+    <string name="dog_name_7">Moana</string>
+    <string name="dog_name_8">Tzeitel</string>
+    <string name="dog_name_9">Leroy</string>
+    <string name="dog_description_1">Eating treats on the terrace</string>
+    <string name="dog_description_2">Barking at Daddy</string>
+    <string name="dog_description_3">Stealing socks</string>
+    <string name="dog_description_4">Meeting new animals</string>
+    <string name="dog_description_5">Digging in the garden</string>
+    <string name="dog_description_6">Chasing sea foam</string>
+    <string name="dog_description_7">Bothering her paw-rents</string>
+    <string name="dog_description_8">Sunbathing</string>
+    <string name="dog_description_9">Sleeping in dangerous places</string>
+    <string name="about">About:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
+
+
+
+    <string name="hero1">Nick the Night and Day</string>
+    <string name="description1">The jetpack Hero</string>
+
+    <string name="hero2">Reality Protector</string>
+    <string name="description2">Understands the absolute truth</string>
+
+    <string name="hero3">Andre the Giant</string>
+    <string name="description3">Mimics the light and night to blend in</string>
+
+    <string name="hero4">Benjamin the Brave</string>
+    <string name="description4">Harnesses the power of canary to develop bravely</string>
+
+    <string name="hero5">Magnificent Maru</string>
+    <string name="description5">Effortlessly glides in to save the day</string>
+
+    <string name="hero6">Dynamic Yasmine</string>
+    <string name="description6">Ability to shift to any form and energize</string>
+
+
+
+    <string name="day1">Day 1</string>
+    <string name="city1">Rising Sun</string>
+    <string name="desc1">Sunrise or arunika is an event in which the upper side of the Sun appears above the horizon to the east. Sunrise is not the same as dawn, where the sky begins to lighten, some time before the sun appears, ending twilight.</string>
+
+    <string name="day2">Day 2</string>
+    <string name="city2">Glider</string>
+    <string name="desc2">The sea is a large and wide collection of salt water that inundates and divides the land over continents or islands. So the sea is water that covers a very large land surface and generally contains salt and tastes salty.</string>
+
+    <string name="day3">Day 3</string>
+    <string name="city3">Grand Sunset</string>
+    <string name="desc3">Sunset or private is the time when the sun disappears below the horizon in the west. The red color in the sky at sunset and sunrise is caused by a combination of blue Rayleigh scattering and the density of the Earths atmosphere</string>
+
+    <string name="day4">Day 4</string>
+    <string name="city4">Canyon de Chelly</string>
+    <string name="desc4">Canyon de Chelly National Monument was established on April 1, 1931, as a unit of the National Park Service. Located in northeastern Arizona, it is within the boundaries of the Navajo State and is located in the Four Corners region.</string>
+</resources>
