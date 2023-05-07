@@ -1,2 +1,0 @@
-# MyCompose
-Compose Dasar Basic
